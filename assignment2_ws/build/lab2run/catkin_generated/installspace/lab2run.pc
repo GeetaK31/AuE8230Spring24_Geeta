@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/AuE8230Spring24_Geeta/assignment2_ws/install
+
+Name: lab2run
+Description: Description of lab2run
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
